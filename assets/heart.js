@@ -249,11 +249,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!loadedFont) return;
 
         const textStrings = [
-            "KuchuPuchu",
-            "Forever",
-            "My Heart",
-            "Strawberry",
-            "Darling"
+            "ehh",
+            "ehhh",
+            "hehh",
+            "ehhhh",
+            "hehehh"
         ];
 
         for (let i = 0; i < 12; i++) { // Reduced from 15 to 12 since we have special text now

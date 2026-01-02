@@ -93,6 +93,7 @@ Note: Browsers often block autoplay. Use the Play button to grant audio permissi
 ## License
 This project is licensed under the Apache License 2.0. See the license file in this folder.
 
-## Made By Pinak Kundu
-Original project by Loopz • Modified by loopz
+## Made By Pinak Kundu## Credits
+- Original author: pinkku
+- Modified by: loopz
 
